@@ -16,5 +16,5 @@ Use Case:
 4. FetchAllEmployeeDetail
 
 Acceptence Criteria:
-10. All API should work.
-11. Appropriate error message in case of error
+1. All API should work.
+2. Appropriate error message in case of error
